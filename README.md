@@ -6,9 +6,13 @@ This file contains the board composition data from Ewens and Malenko (2025) "Boa
 
 Building this database used a combination of Form D filings and VentureSource.  Users of the data should read section 2 ("Data") and the internet appendix from the [paper](https://osf.io/preprints/socarxiv/t96yq_v1).
 
+## Sample code
+
+Please see the [code folder](https://github.com/michaelewens/vc_backed_boards/tree/main/code) for Python and Stata code to recreate the first figures from the original paper.
+
 ## Data structure
 
-The file has the following fields"
+The file has the following fields":
 
 - `year`: the year of the startup board data
 - `numOut`: the number of independent directors (or outsiders)
