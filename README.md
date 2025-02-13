@@ -1,10 +1,10 @@
 # Startup board composition data (Ewens and Malenko, 2025)
 
-This file contains the board composition data from Ewens and Malenko (2025) "Board Dynamics over the Startup Lifecycle." ((https://osf.io/preprints/socarxiv/t96yq/))[Paper available here].
+This file contains the board composition data from Ewens and Malenko (2025) "Board Dynamics over the Startup Lifecycle." [Paper available here](https://osf.io/preprints/socarxiv/t96yq_v1).
 
 ## Data description and sample creation
 
-Building this database used a combination of Form D filings and VentureSource.  Users of the data should read section 2 ("Data") and the internet appendix from the ((https://osf.io/preprints/socarxiv/t96yq/))[paper].
+Building this database used a combination of Form D filings and VentureSource.  Users of the data should read section 2 ("Data") and the internet appendix from the [paper](https://osf.io/preprints/socarxiv/t96yq_v1).
 
 ## Data structure
 
