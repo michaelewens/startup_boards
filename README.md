@@ -14,6 +14,8 @@ The file has the following fields"
 - `numOut`: the number of independent directors (or outsiders)
 -  `numExecs`: the number of directors who are executives of the startup
 -  `numVCs`: the number of venture capital directors
+-  `startupHadFinancing`: a dummy variable equal to 1 if the startup raised capital in this year
+-  `financingRoundNumber`: the financing round number (using the sequence of financing years and other information)
 -  `cik1,cik2,cik3,cik4`: the "central identification key" or CIK that identifies the firm in the SEC EDGAR data.  Note that some startups have more than one CIK
 
 ## Citation
